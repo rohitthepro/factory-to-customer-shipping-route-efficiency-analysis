@@ -21,4 +21,4 @@ Check out the live web app here: https://factory-to-customer-shipping-route-effi
 If you want to run this dashboard on your own machine, follow these steps:
 1. Clone this repository.
 2. Install the required libraries: `pip install -r requirements.txt`
-3. Run the app: `streamlit run app.py` (replace `app.py` with your filename)
+3. Run the app: `streamlit run project1.py
