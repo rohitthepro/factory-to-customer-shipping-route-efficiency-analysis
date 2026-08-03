@@ -4,7 +4,7 @@
 This project is a data analytics dashboard built to analyze shipping routes for Nassau Candy Distributor. The goal of this analysis is to identify logistical bottlenecks and optimize transit efficiency from the factory directly to the customer.
 
 ## 🚀 Live Dashboard
-Check out the live web app here: 
+Check out the live web app here: https://factory-to-customer-shipping-route-efficiency-analysis-5mhz8uh.streamlit.app/
 
 ## 🛠️ Tools & Technologies Used
 * **Python** (Data processing and logic)
